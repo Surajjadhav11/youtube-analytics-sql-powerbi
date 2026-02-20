@@ -100,15 +100,23 @@ Created key business metrics:
 
 ## 📷 Dashboard Preview
 
-### Market Overview
-![Overview](screenshots/dashboard_overview.png)
+### 🟦 Market Overview Dashboard
+![Market Overview](Screenshots/Image%20Feb%2019,%202026,%2003_07_06.png)
 
-### Engagement & Momentum Analysis
-![Momentum](screenshots/momentum_analysis.png)
+---
 
-### Category & Trending Speed Insights
-![Category](screenshots/category_analysis.png)
+### 📈 Rolling 7-Day Trending Momentum & Engagement Analysis
+![Momentum & Engagement](Screenshots/Image%20Feb%2019,%202026,%2003_20_12.png)
 
+---
+
+### ⚡ Fastest Trending Videos & Market Concentration
+![Trending Speed](Screenshots/Image%20Feb%2020,%202026,%2002_15_24.png)
+
+---
+
+### 📊 Advanced Category & Trend Speed Analysis
+![Category Analysis](Screenshots/Image%20Feb%2020,%202026,%2002_17_47.png)
 ---
 
 ## 🔎 Key Insights
