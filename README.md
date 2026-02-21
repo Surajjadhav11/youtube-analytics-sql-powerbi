@@ -100,7 +100,7 @@ Created key business metrics:
 
 ## 📷 Dashboard Preview
 
-![Market Overview](Screenshots/dashboard_overview.png)
+![Market Overview](Youtube%Performance%analysis/Screenshots/dashboard_overview.png)
 ![Momentum Analysis](Screenshots/momentum_analysis.png)
 ![Trending Speed](Screenshots/trend_speed.png)
 ![Category Insights](Screenshots/category_analysis.png)
