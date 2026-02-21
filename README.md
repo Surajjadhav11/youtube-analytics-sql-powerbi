@@ -100,23 +100,11 @@ Created key business metrics:
 
 ## 📷 Dashboard Preview
 
-### 🟦 Market Overview Dashboard
-![Market Overview](Youtube%Performance%analysis/Screenshots/Image%1.png)
+![Market Overview](Screenshots/dashboard_overview.png)
+![Momentum Analysis](Screenshots/momentum_analysis.png)
+![Trending Speed](Screenshots/trend_speed.png)
+![Category Insights](Screenshots/category_analysis.png)
 
----
-
-### 📈 Rolling 7-Day Trending Momentum & Engagement Analysis
-![Momentum & Engagement](Screenshots/Image%2.png)
-
----
-
-### ⚡ Fastest Trending Videos & Market Concentration
-![Trending Speed](Screenshots/Image%3.png)
-
----
-
-### 📊 Advanced Category & Trend Speed Analysis
-![Category Analysis](Screenshots/Image%1.png)
 ---
 
 ## 🔎 Key Insights
